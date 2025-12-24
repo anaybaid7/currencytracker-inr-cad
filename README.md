@@ -29,7 +29,8 @@ A minimalist black & white currency tracker with live rates, historical charts, 
 ├── package.json                         # Project dependencies & scripts
 ├── package-lock.json                    # Exact dependency versions
 ├── README.md                            # Project overview & structure
-└── .gitignore                           # Files/folders to ignore in git```
+└── .gitignore                           # Files/folders to ignore in git
+```
 
 ## Features
 
@@ -43,5 +44,4 @@ A minimalist black & white currency tracker with live rates, historical charts, 
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/<your-username>/currencytracker-inr-cad.git
+```git clone https://github.com/<your-username>/currencytracker-inr-cad.git```
