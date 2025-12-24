@@ -4,7 +4,7 @@ A minimalist black & white currency tracker with live rates, historical charts, 
 
 ## Project Structure
 
-currencytracker-inr-cad/
+```currencytracker-inr-cad/
 ├── public/                     
 │   └── index.html              # HTML template and static assets
 │
@@ -29,7 +29,7 @@ currencytracker-inr-cad/
 ├── package.json                         # Project dependencies & scripts
 ├── package-lock.json                    # Exact dependency versions
 ├── README.md                            # Project overview & structure
-└── .gitignore                           # Files/folders to ignore in git
+└── .gitignore                           # Files/folders to ignore in git```
 
 ## Features
 
